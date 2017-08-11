@@ -7,4 +7,4 @@ Funcionalidades:
     * Las tareas se agregan al arreglo siempre y cuando se presione "enter"
 
 Trello Final:
-![Logo](/assets/img/trelloimg.jpg)
+![Logo](https://github.com/MariaP92/TrelloOKver4.0/blob/master/assets/img/trelloimg.JPG)
